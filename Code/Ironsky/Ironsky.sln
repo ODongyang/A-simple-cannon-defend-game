@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ironsky", "Ironsky.vcxproj", "{88D0AFEF-75D4-429D-973C-802730ADBEDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D0AFEF-75D4-429D-973C-802730ADBEDA}.Debug|x64.ActiveCfg = Debug|x64
+		{88D0AFEF-75D4-429D-973C-802730ADBEDA}.Debug|x64.Build.0 = Debug|x64
+		{88D0AFEF-75D4-429D-973C-802730ADBEDA}.Debug|x86.ActiveCfg = Debug|Win32
+		{88D0AFEF-75D4-429D-973C-802730ADBEDA}.Debug|x86.Build.0 = Debug|Win32
+		{88D0AFEF-75D4-429D-973C-802730ADBEDA}.Release|x64.ActiveCfg = Release|x64
+		{88D0AFEF-75D4-429D-973C-802730ADBEDA}.Release|x64.Build.0 = Release|x64
+		{88D0AFEF-75D4-429D-973C-802730ADBEDA}.Release|x86.ActiveCfg = Release|Win32
+		{88D0AFEF-75D4-429D-973C-802730ADBEDA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {677798C8-ED9D-4E44-B728-B6B65D7BF645}
+	EndGlobalSection
+EndGlobal
